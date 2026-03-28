@@ -1,0 +1,70 @@
+{
+    "company_name": "Apple Inc.",
+    "short_name": "Apple",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Apple_logo_black.svg/1280px-Apple_logo_black.svg.png",
+    "category": "Enterprise",
+    "year_of_incorporation": 1976,
+    "overview_of_the_company": null,
+    "nature_of_company": "Public",
+    "company_headquarters": "Cupertino, California, United States",
+    "countries_operating_in": [
+        "United States",
+        "China",
+        "Japan",
+        "United Kingdom",
+        "Germany",
+        "France",
+        "India",
+        "Australia"
+    ],
+    "number_of_offices_beyond_hq": 10,
+    "employee_size": "154000-160000",
+    "pain_points_being_addressed": null,
+    "focus_sectors_industries": [
+        "Consumer Electronics",
+        "Software",
+        "Services"
+    ],
+    "services_offerings_products": [
+        "iPhone",
+        "Mac",
+        "iPad",
+        "Apple Watch",
+        "Apple TV",
+        "AirPods",
+        "Apple Music",
+        "Apple Arcade"
+    ],
+    "core_value_proposition": "Innovative and user-friendly technology products",
+    "vision": "To make technology accessible to everyone",
+    "mission": "To create innovative products that enrich people's lives",
+    "unique_differentiators": "Design, innovation, and customer experience",
+    "competitive_advantages": "Brand recognition, customer loyalty, and product quality",
+    "key_challenges_and_unmet_needs": null,
+    "key_competitors": [
+        "Samsung",
+        "Google",
+        "Amazon"
+    ],
+    "technology_partners": [
+        "Intel",
+        "Qualcomm",
+        "Microsoft"
+    ],
+    "interesting_facts": null,
+    "website_url": "https://www.apple.com/",
+    "social_media_followers_combined": 100000000,
+    "ceo_name": "Tim Cook",
+    "key_business_leaders": [
+        "Jeff Williams",
+        "Johny Srouji",
+        "Greg Joswiak"
+    ],
+    "profitability_status": "Profitable",
+    "sales_motion": "Hybrid",
+    "strategic_priorities": [
+        "Innovation",
+        "Customer satisfaction",
+        "Market expansion"
+    ]
+}

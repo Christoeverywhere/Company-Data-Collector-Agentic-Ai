@@ -1,0 +1,58 @@
+{
+    "company_name": "Infosys",
+    "short_name": "Infosys",
+    "logo": null,
+    "category": "Enterprise",
+    "year_of_incorporation": 1981,
+    "overview_of_the_company": null,
+    "nature_of_company": "Public",
+    "company_headquarters": "Bengaluru, Karnataka, India",
+    "countries_operating_in": [
+        "India",
+        "United States",
+        "China",
+        "Japan",
+        "United Kingdom"
+    ],
+    "number_of_offices_beyond_hq": 90,
+    "employee_size": "250000-300000",
+    "pain_points_being_addressed": null,
+    "focus_sectors_industries": [
+        "IT Services",
+        "Consulting",
+        "Engineering Services"
+    ],
+    "services_offerings_products": [
+        "Application Development",
+        "Cloud Services",
+        "Digital Transformation"
+    ],
+    "core_value_proposition": null,
+    "vision": null,
+    "mission": null,
+    "unique_differentiators": null,
+    "competitive_advantages": null,
+    "key_challenges_and_unmet_needs": null,
+    "key_competitors": [
+        "Tata Consultancy Services",
+        "Wipro",
+        "HCL Technologies"
+    ],
+    "technology_partners": [
+        "Microsoft",
+        "Amazon Web Services",
+        "Google Cloud Platform"
+    ],
+    "interesting_facts": null,
+    "website_url": "https://www.infosys.com/",
+    "social_media_followers_combined": 1000000,
+    "ceo_name": "Salil Parekh",
+    "key_business_leaders": [
+        "Pravin Rao",
+        "Ravi Kumar S",
+        "Ravi Kumar S"
+    ],
+    "profitability_status": "Profitable",
+    "sales_motion": "Sales-Led",
+    "strategic_priorities": null
+}

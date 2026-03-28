@@ -1,0 +1,74 @@
+{
+    "company_name": "Apple",
+    "short_name": "Apple",
+    "logo": "https://www.apple.com/ac/graphics/logo.png",
+    "category": "Enterprise",
+    "year_of_incorporation": 1976,
+    "overview_of_the_company": "Apple Inc. is an American multinational technology company that designs, manufactures, and markets consumer electronics, computer software, and online services.",
+    "nature_of_company": "Public",
+    "company_headquarters": "Cupertino, California, USA",
+    "countries_operating_in": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia",
+        "China",
+        "India",
+        "Japan"
+    ],
+    "number_of_offices_beyond_hq": 200,
+    "employee_size": "150000",
+    "pain_points_being_addressed": "Innovative products Customer experience Sustainability",
+    "focus_sectors_industries": [
+        "Technology",
+        "Electronics",
+        "Software"
+    ],
+    "services_offerings_products": [
+        "iPhones",
+        "MacBooks",
+        "iPads",
+        "Apple Watch",
+        "AirPods",
+        "Apple TV",
+        "Apple Music",
+        "Apple Arcade"
+    ],
+    "core_value_proposition": "To bring the best user experience to its customers through its innovative hardware, software, and services.",
+    "vision": "To make a dent in the universe.",
+    "mission": "To bring the best user experience to its customers through its innovative hardware, software, and services.",
+    "unique_differentiators": "Innovative products Ecosystem Brand loyalty",
+    "competitive_advantages": "Strong brand Innovative products Global reach",
+    "key_challenges_and_unmet_needs": "Competition from other tech companies Supply chain disruptions Environmental sustainability",
+    "key_competitors": [
+        "Samsung",
+        "Google",
+        "Amazon",
+        "Microsoft"
+    ],
+    "technology_partners": [
+        "Intel",
+        "Qualcomm",
+        "IBM"
+    ],
+    "interesting_facts": [
+        "Apple is one of the most valuable companies in the world",
+        "Apple has a strong focus on sustainability and environmental responsibility"
+    ],
+    "website_url": "https://www.apple.com/",
+    "social_media_followers_combined": 500000000,
+    "ceo_name": "Tim Cook",
+    "key_business_leaders": [
+        "Jeff Williams",
+        "Luca Maestri",
+        "Katherine Adams"
+    ],
+    "profitability_status": "Profitable",
+    "sales_motion": "Hybrid",
+    "strategic_priorities": [
+        "Innovation",
+        "Customer experience",
+        "Sustainability",
+        "Global expansion"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "company_name": "Google",
+    "short_name": "Google",
+    "logo": null,
+    "category": "Enterprise",
+    "year_of_incorporation": 1998,
+    "overview_of_the_company": "Google is an American multinational technology company that specializes in Internet-related services and products.",
+    "nature_of_company": "Public",
+    "company_headquarters": "Mountain View, California, United States",
+    "countries_operating_in": [
+        "United States",
+        "Canada",
+        "United Kingdom",
+        "India",
+        "Australia"
+    ],
+    "number_of_offices_beyond_hq": 70,
+    "employee_size": "150000-200000",
+    "pain_points_being_addressed": null,
+    "focus_sectors_industries": [
+        "Technology",
+        "Internet"
+    ],
+    "services_offerings_products": [
+        "Google Search",
+        "Google Maps",
+        "Google Chrome",
+        "Google Drive",
+        "Google Cloud"
+    ],
+    "core_value_proposition": "Organize the world's information and make it universally accessible and useful.",
+    "vision": "To provide access to the world's information in one click.",
+    "mission": "To organize the world's information and make it universally accessible and useful.",
+    "unique_differentiators": "Google's unique differentiators include its search algorithm, Google Maps, and Google Chrome.",
+    "competitive_advantages": "Google's competitive advantages include its brand recognition, user base, and innovative products.",
+    "key_challenges_and_unmet_needs": null,
+    "key_competitors": [
+        "Amazon",
+        "Microsoft",
+        "Facebook"
+    ],
+    "technology_partners": [
+        "Android",
+        "Nest",
+        "Waze"
+    ],
+    "interesting_facts": [
+        "Google is known for its innovative products and services",
+        "including Google Self-Driving Car and Google Glass."
+    ],
+    "website_url": "https://www.google.com/",
+    "social_media_followers_combined": 20000000,
+    "ceo_name": "Sundar Pichai",
+    "key_business_leaders": [
+        "Sundar Pichai",
+        "Ruth Porat",
+        "Sergey Brin",
+        "Larry Page"
+    ],
+    "profitability_status": "Profitable",
+    "sales_motion": "Hybrid",
+    "strategic_priorities": null
+}

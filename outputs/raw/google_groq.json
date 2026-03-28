@@ -1,0 +1,67 @@
+{
+    "company_name": "Google",
+    "short_name": "Google",
+    "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+    "category": "Enterprise",
+    "year_of_incorporation": 1998,
+    "overview_of_the_company": "Google is a multinational technology company specializing in Internet-related services and products.",
+    "nature_of_company": "Public",
+    "company_headquarters": "Mountain View, California, USA",
+    "countries_operating_in": [
+        "USA",
+        "Canada",
+        "UK",
+        "India",
+        "Australia"
+    ],
+    "number_of_offices_beyond_hq": 70,
+    "employee_size": "150000",
+    "pain_points_being_addressed": "Information accessibility Advertising solutions Cloud computing",
+    "focus_sectors_industries": [
+        "Technology",
+        "Internet",
+        "Advertising"
+    ],
+    "services_offerings_products": [
+        "Google Search",
+        "Google Ads",
+        "Google Cloud",
+        "YouTube",
+        "Android"
+    ],
+    "core_value_proposition": "Organizing the world's information and making it universally accessible and useful",
+    "vision": "To provide access to the world's information in one click",
+    "mission": "To organize the world's information and make it universally accessible and useful",
+    "unique_differentiators": "Innovative search algorithms Diversified product portfolio Strong brand recognition",
+    "competitive_advantages": "First-mover advantage in search Strong financial resources Talented workforce",
+    "key_challenges_and_unmet_needs": "Increasing competition from other tech giants Regulatory challenges in various countries",
+    "key_competitors": [
+        "Microsoft",
+        "Amazon",
+        "Facebook"
+    ],
+    "technology_partners": [
+        "Mozilla",
+        "Samsung",
+        "Cisco"
+    ],
+    "interesting_facts": [
+        "Google's first storage was made from Lego bricks",
+        "The first Google storage was made from 10 4GB hard drives"
+    ],
+    "website_url": "https://www.google.com/",
+    "social_media_followers_combined": 100000000,
+    "ceo_name": "Sundar Pichai",
+    "key_business_leaders": [
+        "Sundar Pichai",
+        "Ruth Porat",
+        "Prabhakar Raghavan"
+    ],
+    "profitability_status": "Profitable",
+    "sales_motion": "Hybrid",
+    "strategic_priorities": [
+        "Artificial intelligence",
+        "Cloud computing",
+        "Diversification of revenue streams"
+    ]
+}

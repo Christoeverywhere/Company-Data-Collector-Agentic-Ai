@@ -1,0 +1,66 @@
+{
+    "company_name": "InfoSys",
+    "short_name": "Infosys",
+    "logo": "https://www.infosys.com/assets/images/infosys-logo.png",
+    "category": "Enterprise",
+    "year_of_incorporation": 1981,
+    "overview_of_the_company": "Infosys is a global leader in next-generation digital services and consulting.",
+    "nature_of_company": "Public",
+    "company_headquarters": "Bengaluru, India",
+    "countries_operating_in": [
+        "India",
+        "USA",
+        "China",
+        "UK",
+        "Canada"
+    ],
+    "number_of_offices_beyond_hq": 150,
+    "employee_size": "250000",
+    "pain_points_being_addressed": "Digital Transformation Cloud Migration Cybersecurity",
+    "focus_sectors_industries": [
+        "Financial Services",
+        "Retail",
+        "Manufacturing",
+        "Healthcare"
+    ],
+    "services_offerings_products": [
+        "Digital Experience",
+        "Business Process Management",
+        "Engineering and R&D"
+    ],
+    "core_value_proposition": "Helping clients navigate their digital transformation journey",
+    "vision": "To be a globally respected corporation that provides best-of-breed business solutions",
+    "mission": "To achieve our objectives in an environment of fairness, honesty, and courtesy towards our clients, employees, vendors and society at large",
+    "unique_differentiators": "AI-powered solutions Cloud-first approach Global delivery model",
+    "competitive_advantages": "Strong technical expertise Global presence Innovative solutions",
+    "key_challenges_and_unmet_needs": "Talent acquisition and retention Staying ahead of the competition Meeting evolving client needs",
+    "key_competitors": [
+        "TCS",
+        "Wipro",
+        "HCL Technologies"
+    ],
+    "technology_partners": [
+        "Microsoft",
+        "Amazon Web Services",
+        "Google Cloud"
+    ],
+    "interesting_facts": [
+        "Infosys is one of the largest IT companies in India",
+        "It has a global presence in over 50 countries"
+    ],
+    "website_url": "https://www.infosys.com/",
+    "social_media_followers_combined": 1000000,
+    "ceo_name": "Salil Parekh",
+    "key_business_leaders": [
+        "U B Pravin Rao",
+        "Ravi Kumar S",
+        "Mohit Joshi"
+    ],
+    "profitability_status": "Profitable",
+    "sales_motion": "Hybrid",
+    "strategic_priorities": [
+        "Digital transformation",
+        "Cloud adoption",
+        "Innovation and R&D"
+    ]
+}
